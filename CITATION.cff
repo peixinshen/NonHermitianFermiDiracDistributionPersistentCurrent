@@ -1,0 +1,18 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Non-Hermitian Persistent Current Transport
+message: "If you use this software, please cite it as below."
+type: software
+authors:
+  - given-names: Pei-Xin
+    family-names: Shen
+    email: peixin.shen@outlook.com
+    orcid: 'https://orcid.org/0000-0003-2761-5083'
+identifiers:
+  - type: doi
+    value: 10.48550/arXiv.2403.09569
+repository-code: 'https://github.com/peixinshen/NonHermitianPersistentCurrentTransport'
+license: MIT
+date-released: '2024-03-14'
