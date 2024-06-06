@@ -1,19 +1,23 @@
 # Non-Hermitian Persistent Current Transport
 
-This repository contains the code developed to accompany the manuscript titled *Non-Hermitian Persistent Current Transport* [[1](#refer-anchor-1)]. The code is written in Jupyter notebooks and demonstrates the application of DMRG for calculating persistent currents in open quantum systems.
+![Distribution Sketch](DistributionSketch.png)
+
+This repository contains the code developed to accompany the manuscript titled *Non-Hermitian Persistent Current Transport* [[1](#refer-anchor-1)]. 
 
 ## Contents
 
 - `SNS.ipynb`: A phase-biased superconducting-normal-superconducting (SNS) junction.
 - `Ring.ipynb`: A normal ring threaded by a magnetic flux.
+- `NonHermitianFermiDiracPersistentCurrent.nb`: *Mathematica* notebook for symbolic derivation of the non-Hermitian Fermi-Dirac distribution and relevant analytical calculations.
 
 ## Usage
 
-To run these notebooks, ensure you have [DMRGpy](https://github.com/joselado/dmrgpy) installed. Each notebook is self-contained and provides step-by-step computation leading to the ground state energy and persistent current as a function of the phase. The analysis focuses on the influence of many-body interactions on the persistent currents and scrutinizes the signatures of exceptional points within these systems.
+To run the Jupyter notebooks, ensure you have [DMRGpy](https://github.com/joselado/dmrgpy) installed. Each notebook is self-contained and provides step-by-step computation leading to the ground state energy and persistent current as a function of the phase. The analysis focuses on the influence of many-body interactions on the persistent currents and scrutinizes the signatures of exceptional points within these systems.
 
-## Future Work
-
-More codes related to symbolic calculations and other aspects of the research will be shared in the future.
+For the *Mathematica* notebook, we demonstrate the symbolic derivation of our formalism, including:
+- Derivation and visualization of the non-Hermitian Fermi-Dirac distribution.
+- Continuity of the persistent current at exceptional points.
+- Analytical expressions and and numerical verifications for Green's function.
 
 ## References
 
