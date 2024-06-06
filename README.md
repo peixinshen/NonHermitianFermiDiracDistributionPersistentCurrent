@@ -1,3 +1,6 @@
+[![Mathematica](https://img.shields.io/badge/Wolfram-Mathematica-DD1100?logo=wolfram-mathematica&logoColor=DD1100)](https://www.wolfram.com/mathematica/)
+[![View notebooks](https://wolfr.am/HAAhzkRq)](https://wolfr.am/1mXmN5DaF)
+
 # Non-Hermitian Persistent Current Transport
 
 ![Distribution Sketch](DistributionSketch.png)
@@ -8,7 +11,7 @@ This repository contains the code developed to accompany the manuscript titled *
 
 - `SNS.ipynb`: A phase-biased superconducting-normal-superconducting (SNS) junction.
 - `Ring.ipynb`: A normal ring threaded by a magnetic flux.
-- `NonHermitianFermiDiracPersistentCurrent.nb`: *Mathematica* notebook for symbolic derivation of the non-Hermitian Fermi-Dirac distribution and relevant analytical calculations.
+- `NonHermitianFermiDiracPersistentCurrent.nb`: *Mathematica* notebook ([view online](https://wolfr.am/1mXmN5DaF)) for symbolic derivation of the non-Hermitian Fermi-Dirac distribution and relevant analytical calculations.
 
 ## Usage
 
