@@ -1,11 +1,11 @@
 [![Mathematica](https://img.shields.io/badge/Wolfram-Mathematica-DD1100?logo=wolfram-mathematica&logoColor=DD1100)](https://www.wolfram.com/mathematica/)
 [![View notebooks](https://wolfr.am/HAAhzkRq)](https://wolfr.am/1mXmN5DaF)
 
-# Non-Hermitian Persistent Current Transport
+# Non-Hermitian Fermi-Dirac Distribution in Persistent Current Transport
 
 ![Distribution Sketch](DistributionSketch.png)
 
-This repository contains the code developed to accompany the manuscript titled *Non-Hermitian Persistent Current Transport* [[1](#refer-anchor-1)]. 
+This repository contains the code developed to accompany the manuscript titled *Non-Hermitian Fermi-Dirac Distribution in Persistent Current Transport* [[1](#refer-anchor-1)].
 
 ## Contents
 
@@ -26,4 +26,23 @@ For the *Mathematica* notebook, we demonstrate the symbolic derivation of our fo
 
 <div id="refer-anchor-1"></div> 
 
-[1] P.-X. Shen, Z. Lu, J. L. Lado, and M. Trif, Non-Hermitian Persistent Current Transport, [arXiv:2403.09569 (2024)](https://arxiv.org/abs/2403.09569).
+[1] P.-X. Shen, Z. Lu, J. L. Lado, and M. Trif, [*Non-Hermitian Fermi-Dirac Distribution in Persistent Current Transport*](https://arxiv.org/abs/2403.09569), [Phys. Rev. Lett](https://doi.org/10.1103/PhysRevLett.133.086301). **133**, 086301 (2024).
+
+## Citation
+
+If you use this code or notebook in your research, please cite our Letter:
+
+```bibtex
+@article{Shen2024NonHermitian,
+  title = {Non-{{Hermitian Fermi-Dirac Distribution}} in {{Persistent Current Transport}}},
+  author = {Shen, Pei-Xin and Lu, Zhide and Lado, Jose L. and Trif, Mircea},
+  year = {2024},
+  month = aug,
+  volume = {133},
+  number = {8},
+  pages = {086301},
+  publisher = {American Physical Society},
+  doi = {10.1103/PhysRevLett.133.086301},
+  journal = {Physical Review Letters}
+}
+```
