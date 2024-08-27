@@ -30,7 +30,7 @@ This notebook has been featured in the [Wolfram Community](https://community.wol
 
 [1] P.-X. Shen, Z. Lu, J. L. Lado, and M. Trif, [*Non-Hermitian Fermi-Dirac Distribution in Persistent Current Transport*](https://arxiv.org/abs/2403.09569), [Phys. Rev. Lett](https://doi.org/10.1103/PhysRevLett.133.086301). **133**, 086301 (2024).
 
-> Please note that in the final published version of our Letter, there is a minor typo in the sentence located in the lower left corner of page 2: "For isolated and Hermitian systems $\mathcal{H}_{\mathrm{sys}}$, the persistent current $I_{\mathrm{iso}}(\phi)$ n the many-body ground state with energy $E_0$ follows [56]," where the word **n** should be **in**. 
+> Please note that in the final published version of our Letter, there is a minor typo in the sentence located in the lower left corner of page 2: "For isolated and Hermitian systems $`\mathcal{H}_\mathrm{sys}`$, the persistent current $`I_\mathrm{iso}(\phi)`$ **n** the many-body ground state with energy $E_0$ follows [56]," where the word **n** should be **in**. 
 
 ## Citation
 
