@@ -5,7 +5,7 @@
 
 ![Distribution Sketch](DistributionSketch.png)
 
-This repository contains the code developed to accompany the manuscript titled *Non-Hermitian Fermi-Dirac Distribution in Persistent Current Transport* [[1](#refer-anchor-1)].
+This repository contains the code developed to accompany the Letter titled *Non-Hermitian Fermi-Dirac Distribution in Persistent Current Transport* [[1](#refer-anchor-1)].
 
 ## Contents
 
@@ -22,11 +22,15 @@ For the *Mathematica* notebook, we demonstrate the symbolic derivation of our fo
 - Continuity of the persistent current at exceptional points.
 - Analytical expressions and and numerical verifications for Green's function.
 
-## References
+This notebook has been featured in the [Wolfram Community](https://community.wolfram.com/groups/-/m/t/3258109) in the editorial columns: [Staff Picks](http://wolfr.am/StaffPicks) and [Publication Materials](http://wolfr.am/PubMat).
+
+## Reference
 
 <div id="refer-anchor-1"></div> 
 
 [1] P.-X. Shen, Z. Lu, J. L. Lado, and M. Trif, [*Non-Hermitian Fermi-Dirac Distribution in Persistent Current Transport*](https://arxiv.org/abs/2403.09569), [Phys. Rev. Lett](https://doi.org/10.1103/PhysRevLett.133.086301). **133**, 086301 (2024).
+
+> Please note that in the final published version of our Letter, there is a minor typo in the sentence located in the lower left corner of page 2: "For isolated and Hermitian systems $\mathcal{H}_{\mathrm{sys}}$, the persistent current $I_{\mathrm{iso}}(\phi)$ n the many-body ground state with energy $E_0$ follows [56]," where the word **n** should be **in**. 
 
 ## Citation
 
