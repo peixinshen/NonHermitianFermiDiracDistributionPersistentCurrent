@@ -10,7 +10,7 @@ This repository contains the code developed to accompany the Letter titled *Non-
 ## Contents
 
 - `SNS.ipynb`: A phase-biased superconducting-normal-superconducting (SNS) junction.
-- `Ring.ipynb`: A normal ring threaded by a magnetic flux.
+- `Ring.ipynb`: A normal metallic ring threaded by a magnetic flux.
 - `NonHermitianFermiDiracPersistentCurrent.nb`: *Mathematica* notebook ([view online](https://wolfr.am/1mXmN5DaF)) for symbolic derivation of the non-Hermitian Fermi-Dirac distribution and relevant analytical calculations.
 
 ## Usage
@@ -19,7 +19,7 @@ To run the Jupyter notebooks, ensure you have [DMRGpy](https://github.com/josela
 
 For the *Mathematica* notebook, we demonstrate the symbolic derivation of our formalism, including:
 - Derivation and visualization of the non-Hermitian Fermi-Dirac distribution.
-- Continuity of the persistent current at exceptional points.
+- Continuity of the persistent current at exceptional points, as discussed in the blog titled [Quantum many-body observables in equilibrium are continuous at exceptional points](https://shenpeixin.com/posts/2024/07/14/).
 - Analytical expressions and and numerical verifications for Green's function.
 
 This notebook has been featured in the [Wolfram Community](https://community.wolfram.com/groups/-/m/t/3258109) in the editorial columns: [Staff Picks](http://wolfr.am/StaffPicks) and [Publication Materials](http://wolfr.am/PubMat).
@@ -28,7 +28,7 @@ This notebook has been featured in the [Wolfram Community](https://community.wol
 
 <div id="refer-anchor-1"></div> 
 
-[1] P.-X. Shen, Z. Lu, J. L. Lado, and M. Trif, [*Non-Hermitian Fermi-Dirac Distribution in Persistent Current Transport*](https://arxiv.org/abs/2403.09569), [Phys. Rev. Lett](https://doi.org/10.1103/PhysRevLett.133.086301). **133**, 086301 (2024).
+[1] P.-X. Shen, Z. Lu, J. L. Lado, and M. Trif, [*Non-Hermitian Fermi-Dirac Distribution in Persistent Current Transport*](https://arxiv.org/abs/2403.09569), [Phys. Rev. Lett.](https://doi.org/10.1103/PhysRevLett.133.086301) **133**, 086301 (2024).
 
 > Please note that in the final published version of our Letter, there is a minor typo in the sentence located in the lower left corner of page 2: "For isolated and Hermitian systems $`\mathcal{H}_\mathrm{sys}`$, the persistent current $`I_\mathrm{iso}(\phi)`$ **n** the many-body ground state with energy $E_0$ follows [56]," where the word **n** should be **in**. 
 
