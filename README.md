@@ -1,5 +1,6 @@
 [![Mathematica](https://img.shields.io/badge/Wolfram-Mathematica-DD1100?logo=wolfram-mathematica&logoColor=DD1100)](https://www.wolfram.com/mathematica/)
 [![View notebooks](https://wolfr.am/HAAhzkRq)](https://wolfr.am/1mXmN5DaF)
+[![DOI](https://zenodo.org/badge/772115573.svg)](https://doi.org/10.5281/zenodo.14555921)
 
 # Non-Hermitian Fermi-Dirac Distribution in Persistent Current Transport
 
