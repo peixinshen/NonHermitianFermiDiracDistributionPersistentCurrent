@@ -51,3 +51,7 @@ If you use this code or notebook in your research, please cite our Letter:
   journal = {Physical Review Letters}
 }
 ```
+
+## Funding
+
+This work is supported by the Foundation for Polish Science project MagTop (No. FENG.02.01-IP.05-0028/23) co-financed by the European Union from the funds of Priority 2 of the European Funds for a Smart Economy Program 2021–2027 (FENG) and by the National Science Centre (Poland) OPUS Grant No. 2021/41/B/ST3/04475. P.-X. S. and Z. L. acknowledge support from the Tsinghua University Dushi Program and Shanghai Qi Zhi Institute. J. L. L. acknowledges the computational resources provided by the Aalto Science-IT project the financial support from the Academy of Finland Projects No. 331342 and No. 358088. P.-X. S. acknowledges additional support from the European Union’s Horizon Europe research and innovation programme under the Marie Skłodowska-Curie Grant Agreement No. 101180589 (SymPhysAI).
